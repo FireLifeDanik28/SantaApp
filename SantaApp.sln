@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaApp", "SantaApp\SantaApp.csproj", "{49DFB026-7871-4DC3-BD23-7AC8BBDED32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DFB026-7871-4DC3-BD23-7AC8BBDED32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DFB026-7871-4DC3-BD23-7AC8BBDED32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DFB026-7871-4DC3-BD23-7AC8BBDED32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DFB026-7871-4DC3-BD23-7AC8BBDED32C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D4E9C8-C1D9-4A1C-9478-B9879AC07A54}
+	EndGlobalSection
+EndGlobal
